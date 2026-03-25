@@ -3,7 +3,7 @@
 ## 👨‍💻 Penulis
 * **Nama:** Afif Nur Rahman
 * **NIM:** H1H024016
-* [cite_start]**Mata Kuliah:** Sistem Mikrokontroler 
+* **Mata Kuliah:** Sistem Mikrokontroler 
 
 ## 🛠️ Komponen yang Digunakan
 * 1x Arduino Uno / 1x ESP32
@@ -28,11 +28,11 @@ Sistem ini menggunakan pin GPIO ESP32 dengan pemetaan sebagai berikut:
 * **Barat:** Merah (21), Kuning (22), Hijau (23)
 
 ## ⏱️ Aturan & Timing Sistem
-[cite_start]Sistem berjalan otomatis searah jarum jam (Utara -> Timur -> Selatan -> Barat -> ulangi) [cite: 13, 14] dengan spesifikasi waktu:
-1. [cite_start]**Lampu Hijau:** Menyala selama 5 detik[cite: 17].
-2. [cite_start]**Lampu Kuning:** Diberikan efek kedip 3 kali dan menyala selama 2 detik[cite: 18].
-3. [cite_start]**Lampu Merah:** Menyala kembali setelah hijau selesai[cite: 19].
-[cite_start]Kondisi default adalah semua lampu berwarna merah sebelum satu sisi aktif[cite: 15]. [cite_start]Tidak boleh ada lebih dari satu sisi hijau yang menyala secara bersamaan untuk menghindari konflik antar simpang[cite: 21, 28].
+Sistem berjalan otomatis searah jarum jam (Utara -> Timur -> Selatan -> Barat -> ulangi) dengan spesifikasi waktu:
+1. **Lampu Hijau:** Menyala selama 5 detik.
+2. **Lampu Kuning:** Diberikan efek kedip 3 kali dan menyala selama 2 detik.
+3. **Lampu Merah:** Menyala kembali setelah hijau selesai.
+Kondisi default adalah semua lampu berwarna merah sebelum satu sisi aktif. Tidak boleh ada lebih dari satu sisi hijau yang menyala secara bersamaan untuk menghindari konflik antar simpang.
 
 ## 🚀 Link Simulasi
 Kamu dapat melihat dan menjalankan simulasi rangkaian ini langsung melalui platform berikut:
