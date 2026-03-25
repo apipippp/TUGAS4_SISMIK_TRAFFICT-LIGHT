@@ -36,5 +36,5 @@ Kondisi default adalah semua lampu berwarna merah sebelum satu sisi aktif. Tidak
 
 ## 🚀 Link Simulasi
 Kamu dapat melihat dan menjalankan simulasi rangkaian ini langsung melalui platform berikut:
-* **Arduino Uno:** [Simulasi Tinkercad]([https://wokwi.com/projects/459426832409931777](https://www.tinkercad.com/things/bm6H8Ws8GV2-traffic-light-simpang)).
-* **ESP32:** [Simulasi Wokwi]([https://www.tinkercad.com/things/bm6H8Ws8GV2-traffic-light-simpang](https://wokwi.com/projects/459426832409931777)).
+* **Arduino Uno:** [Simulasi Tinkercad](https://www.tinkercad.com/things/bm6H8Ws8GV2-traffic-light-simpang).
+* **ESP32:** [Simulasi Wokwi](https://wokwi.com/projects/459426832409931777).
